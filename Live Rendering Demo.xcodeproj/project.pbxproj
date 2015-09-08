@@ -20,6 +20,7 @@
 		5FF71C8D1A76078100D004B3 /* ann.png in Resources */ = {isa = PBXBuildFile; fileRef = 5FF71C881A76078100D004B3 /* ann.png */; };
 		5FF71C8E1A76078100D004B3 /* john.png in Resources */ = {isa = PBXBuildFile; fileRef = 5FF71C891A76078100D004B3 /* john.png */; };
 		5FF71C8F1A76078100D004B3 /* jane.png in Resources */ = {isa = PBXBuildFile; fileRef = 5FF71C8A1A76078100D004B3 /* jane.png */; };
+		9847D2041B9E59C1003BCE12 /* CircularImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9847D2031B9E59C1003BCE12 /* CircularImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		5FF71C881A76078100D004B3 /* ann.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ann.png; sourceTree = "<group>"; };
 		5FF71C891A76078100D004B3 /* john.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = john.png; sourceTree = "<group>"; };
 		5FF71C8A1A76078100D004B3 /* jane.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jane.png; sourceTree = "<group>"; };
+		9847D2031B9E59C1003BCE12 /* CircularImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircularImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 				5F34C3191A6CF5C700282605 /* ViewController.swift */,
 				5F34C31B1A6CF5C700282605 /* Main.storyboard */,
 				5F34C3391A6CFA0700282605 /* User.swift */,
+				9847D2031B9E59C1003BCE12 /* CircularImageView.swift */,
 				5F34C3371A6CF65300282605 /* TableViewController.swift */,
 				5F34C31E1A6CF5C700282605 /* Images.xcassets */,
 				5F34C3201A6CF5C700282605 /* LaunchScreen.xib */,
@@ -246,6 +249,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9847D2041B9E59C1003BCE12 /* CircularImageView.swift in Sources */,
 				5F34C33A1A6CFA0700282605 /* User.swift in Sources */,
 				5F34C31A1A6CF5C700282605 /* ViewController.swift in Sources */,
 				5F34C3381A6CF65300282605 /* TableViewController.swift in Sources */,
